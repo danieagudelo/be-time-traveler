@@ -170,3 +170,4 @@ cython_debug/
 policy_*
 
 venv
+app/.env
